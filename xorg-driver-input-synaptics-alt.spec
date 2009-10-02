@@ -2,7 +2,7 @@ Summary:	XOrg/XFree86 input driver for Synaptics touchpads
 Summary(pl.UTF-8):	Sterownik wejściowy XOrg/XFree86 do touchpadów Synaptics
 Name:		xorg-driver-input-synaptics-alt
 Version:	0.99.3
-Release:	2
+Release:	3
 License:	MIT
 Group:		X11/Applications
 Source0:	http://math.berkeley.edu/~vojta/xf86-input-synaptics-%{version}.tar.bz2
